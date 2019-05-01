@@ -1,1 +1,1 @@
-# first_homework_wordstatistic
+# wordstatistic_win
